@@ -66,6 +66,7 @@ This command will analyze `file1.txt` and `file2.txt` with custom thresholds for
 - Refactoring of code (removing unused imports)
 - Refactoring of code (separate Python scripts into folders and realize relative import)
 - Writing of further comments
+- Update to Python 3.13 (Python 3.9 was used as matplotlib used in this repository has a known bug and does not work properly with recent Python versions, especially in Debug mode)
 
 For major improvements and general future developments see the essay "_ImitatioInspector_: A Prototype Machine Learning Tool Regarding _Imitatio Dantis_ and _Imitatio Petrarcae_"
 
@@ -82,4 +83,4 @@ To run the analysis the following software and resources were used (as indicated
 
 The fonts included to generate PDF files with Unicode characters are taken from PyPDF repository: https://github.com/reingart/pyfpdf/releases. See also here for the general license of DejaVu fonts: https://dejavu-fonts.github.io/License.html
 
-Due to copyright concerns, we don't publish the TEI XML-files of Dante's _Comedy_ and Petrarch's _Canzoniere_. Please refer to _Biblioteca Italiana_ for these files.
+Due to copyright concerns, we do not publish the TEI XML-files of Dante's _Comedy_ and Petrarch's _Canzoniere_. Please refer to _Biblioteca Italiana_ for these files.
