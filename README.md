@@ -1,6 +1,6 @@
 # _ImitatioInspector_: A Prototype Machine Learning Tool Regarding _Imitatio Dantis_ and _Imitatio Petrarcae_
 
-This repository contains code and material for an application for detecting _imitatio Dantis_ and _imitatio Petrarcae_ using machine learning algorithms as described in Sascha Resch's essay "_ImitatioInspector_: A Prototype Machine Learning Tool Regarding _Imitatio Dantis_ and _Imitatio Petrarcae_", published in _xxx_ xx (202x). See there for a detailed description of textual corpus, test results and methodic considerations.
+This repository contains code and material for an application for detecting _imitatio Dantis_ and _imitatio Petrarcae_ using machine learning algorithms as described in Sascha Resch's essay "_ImitatioInspector_: A Prototype Machine Learning Tool Regarding _Imitatio Dantis_ and _Imitatio Petrarcae_", published in _Digital Scholarship in the Humanities_ (2025). See there for a detailed description of textual corpus, test results and methodic considerations.
 
 # Usage
 
